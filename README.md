@@ -1,5 +1,13 @@
 # Forest_Work_Experience
 
+**Technical Work Experience**
+-	Created comprehensive cash books panning multiple financial years (2019-20 to 2022-23) using advanced Excel functions, pivot tables, and conditional formatting to enhance data management.
+-	Generated periodic MIS reports for various departments, improving data-driven decision-making processes by 30%.
+-	Conducted project cost estimations based on data sheets and project requirements, reducing unnecessary expenditure by 15%.
+-	Designed dynamic dashboards and PowerPoint presentations to communicate insights effectively, boosting organizational efficiency by 10%.
+-	Leveraged MGNREGA software for tasks such as freezing estimates, generating work demands, managing NMRs (Nominal Muster Rolls), MIS Reports, and streamlining payment processes.
+
+
 **Raising of Roadside, Block and Farm Plantation:**
 -	Analyzed the feasibility of raising the plantation in particular roads.
 -	Aligning and digging of pits before carrying out plantation.
